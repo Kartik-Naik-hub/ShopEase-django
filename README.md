@@ -22,9 +22,15 @@ ShopEase is a full-featured e-commerce web application built using **Python and 
 |-------------|----------------------------------------|
 | **Backend** | Python, Django                         |
 | **Frontend**| HTML, CSS, JavaScript                  |
+<<<<<<< HEAD
 | **Database**| SQLite |
 | **CI/CD**   | GitHub Actions                         |
 | **Tools**   | Git, GitHub      |
+=======
+| **Database**| SQLite  |
+| **CI/CD**   | GitHub Actions                         |
+| **Tools**   | Git, GitHub,        |
+>>>>>>> bda61161191e8ddb1043403f5223108d48cb997d
 
 ---
 
