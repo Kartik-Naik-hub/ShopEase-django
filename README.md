@@ -34,6 +34,18 @@ ShopEase is a full-featured e-commerce web application built using **Python and 
 
 ---
 
+### Homepage
+![Homepage](static/images/home.jpg)
+
+### Cart Page
+![Product Page](static/images/cart.jpg)
+
+### Checkout Page
+![Checkout Page](static/images/checkout.jpg)
+
+### Admin Panel Page
+![Admin Panel Page](static/images/admin.jpg)
+
 ## 🚀 How to Run Locally
 
 ```bash
